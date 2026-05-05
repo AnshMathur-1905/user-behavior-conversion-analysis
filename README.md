@@ -202,11 +202,7 @@ user-behavior-conversion-analysis/
 
 1. **Clone this repo**
 ```bash
-git clone https://github.com/AnshMathur-1905/Python-Projects.git
-```
-Then navigate to the project folder:
-```bash
-cd Python-Projects/user-behavior-conversion-analysis
+git clone https://github.com/AnshMathur-1905/user-behavior-conversion-analysis.git
 ```
 
 2. **Install required libraries**
